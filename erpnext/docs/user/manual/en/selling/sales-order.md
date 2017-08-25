@@ -40,16 +40,6 @@ The “Packing List” table will be automatically updated when you “Save” t
 Sales Order. If any Items in your table are Product Bundle (packets), then the
 “Packing List” will contain the exploded (detailed) list of your Items.
 
-### Reservation and Warehouses
-
-If your Sales Order contains Items for which inventory is tracked (Is Stock
-Item is “Yes”) then, ERPNext will ask you for “Reservation Warehouse”. If you
-have set a default Warehouse for the Item, it will automatically set this
-Warehouse here.
-
-This “reserved” quantity will help you project what is the quantity you need
-to purchase based on all your commitments.
-
 ### Taxes
 
 To add taxes to your Quotation, you can select a **Sales Taxes and Charges Template** or add the taxes on your own.
